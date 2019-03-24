@@ -1,0 +1,11 @@
+version: '2'
+services:
+  sitespeed.io:
+    image: sitespeedio/sitespeed.io
+    command: -V
+    privileged: true
+    shm_size: 1g
+    environment:
+      PUBLIC_URL: $PUBLIC_URL
+    volumes:
+      - $PWD/sitespeed:/sitespeed.io

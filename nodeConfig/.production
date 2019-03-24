@@ -1,0 +1,9 @@
+#Development environment
+ENV=production
+
+#baseURL
+BASE_URL=http://thebigsale.com.au/
+
+#Image file path
+IMAGE_PATH=http://thebigsale.com.au/static/images/
+UPLOAD_PATH=http://thebigsale.com.au/static/files/

@@ -1,0 +1,16 @@
+http://thebigsale.com.au/
+http://thebigsale.com.au/about
+http://thebigsale.com.au/contribution/show/2
+http://thebigsale.com.au/contribution/experience
+http://thebigsale.com.au/character/list
+http://thebigsale.com.au/contribution/new
+http://thebigsale.com.au/contribution/edit/24
+http://thebigsale.com.au/contribution/search/テスト/1/1
+http://thebigsale.com.au/information/terms
+http://thebigsale.com.au/information/clientLicense
+http://thebigsale.com.au/information/serverLicense
+http://thebigsale.com.au/information/ansibleLicense
+http://thebigsale.com.au/help
+http://thebigsale.com.au/question
+http://thebigsale.com.au/user/followList/1/1
+http://thebigsale.com.au/user/mypage
