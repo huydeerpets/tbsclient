@@ -45,7 +45,7 @@ export default class New extends Component {
     return (
       <div>
         <div className="container">
-          <PageHeader>.stamp&nbsp;&nbsp;Register a new user</PageHeader>
+          <PageHeader>TheBigSale&nbsp;&nbsp;Register a new user</PageHeader>
         </div>
         <Grid>
           <br />

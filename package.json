@@ -53,7 +53,7 @@
   "storybook-deployer": {
     "gitUsername": "huydeerpets",
     "gitEmail": "huydeerpets@yahoo.com",
-    "commitMessage": ".stamp Storybook to GitHub Pages"
+    "commitMessage": "TheBigSale Storybook to GitHub Pages"
   },
   "author": "huydeerpets",
   "license": "MIT",

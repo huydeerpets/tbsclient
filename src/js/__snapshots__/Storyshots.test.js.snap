@@ -307,7 +307,7 @@ exports[`Storyshots about page 1`] = `
             />
           </div>
           <h3>
-            .stampは、対話形式で知識を共有するWebサービスです
+            TheBigSaleは、対話形式で知識を共有するWebサービスです
           </h3>
           <div
             className="container"
@@ -543,7 +543,7 @@ exports[`Storyshots about page 1`] = `
                 target={undefined}
                 title={undefined}
               >
-                .stampとは
+                TheBigSaleとは
               </a>
             </li>
             <li
@@ -655,7 +655,7 @@ exports[`Storyshots about title 1`] = `
           />
         </div>
         <h3>
-          .stampは、対話形式で知識を共有するWebサービスです
+          TheBigSaleは、対話形式で知識を共有するWebサービスです
         </h3>
         foo
       </div>
@@ -4837,7 +4837,7 @@ exports[`Storyshots footer Link 1`] = `
               target={undefined}
               title={undefined}
             >
-              .stampとは
+              TheBigSaleとは
             </a>
           </li>
           <li
@@ -5515,7 +5515,7 @@ exports[`Storyshots help page 1`] = `
                 target={undefined}
                 title={undefined}
               >
-                .stampとは
+                TheBigSaleとは
               </a>
             </li>
             <li
@@ -6024,7 +6024,7 @@ exports[`Storyshots login hello 1`] = `
               disabled={false}
               type="button"
             >
-              .stampとは
+              TheBigSaleとは
             </button>
           </a>
         </div>
@@ -6342,7 +6342,7 @@ exports[`Storyshots login login page 1`] = `
                     disabled={false}
                     type="button"
                   >
-                    .stampとは
+                    TheBigSaleとは
                   </button>
                 </a>
               </div>
@@ -6776,7 +6776,7 @@ exports[`Storyshots login new page 1`] = `
                     disabled={false}
                     type="button"
                   >
-                    .stampとは
+                    TheBigSaleとは
                   </button>
                 </a>
               </div>
