@@ -2,8 +2,8 @@
 ENV=develop
 
 #ベースURL
-BASE_URL=http://192.168.33.10:8080/
+BASE_URL=http://206.189.90.165:8080/
 
 #画像ファイルパス
-IMAGE_PATH=http://192.168.33.10:8080/static/images/
-UPLOAD_PATH=http://192.168.33.10:8080/static/files/
+IMAGE_PATH=http://206.189.90.165:8080/static/images/
+UPLOAD_PATH=http://206.189.90.165:8080/static/files/

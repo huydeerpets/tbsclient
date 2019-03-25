@@ -3,7 +3,7 @@ import request from "superagent"
 
 const host =
   typeof process.env.BASE_URL === "undefined"
-    ? "http://192.168.33.10:8080/"
+    ? "http://206.189.90.165:8080/"
     : process.env.BASE_URL
 
 export default class Http {

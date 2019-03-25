@@ -36,11 +36,11 @@ module.exports = {
     },
     proxy: {
       "/api/": {
-        target: "http://192.168.33.10:80/",
+        target: "http://206.189.90.165:80/",
         secure: false
       },
       "/static/": {
-        target: "http://192.168.33.10:80/",
+        target: "http://206.189.90.165:80/",
         secure: false
       }
     }
@@ -97,11 +97,11 @@ module.exports = {
         ],
         proxy: {
           "/api/": {
-            target: "http://192.168.33.10:8080/",
+            target: "http://206.189.90.165:8080/",
             secure: false
           },
           "/static/": {
-            target: "http://192.168.33.10:8080/",
+            target: "http://206.189.90.165:8080/",
             secure: false
           }
         }

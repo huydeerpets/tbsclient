@@ -2,7 +2,7 @@
 /* eslint-disable */
 const host = process.env.PUBLIC_URL
   ? process.env.PUBLIC_URL
-  : "http://192.168.33.10:8080/"
+  : "http://206.189.90.165:8080/"
 
 module.exports = {
   run(context) {
