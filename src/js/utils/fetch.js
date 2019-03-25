@@ -10,12 +10,12 @@ invariant(BASE_URL)
 
 const host: string =
   typeof process.env.BASE_URL === "undefined"
-    ? "http://localhost:3000/api/"
+    ? "http://127.0.0.1:8080/api/"
     : `${BASE_URL}api/`
 
 const staticHost: string =
   typeof process.env.BASE_URL === "undefined"
-    ? "http://localhost:3000"
+    ? "http://127.0.0.1:8080"
     : BASE_URL
 
 // Communication status list
@@ -311,7 +311,7 @@ function fetchPuts(
 }
 
 /**
- * 必要な場合はPOST通信を行う
+ * Perform POST communication if necessary
  *
  * @param  {string} url URL
  * @param  {string} type type
@@ -335,7 +335,7 @@ export function fetchPutsIfNeeded(
 }
 
 /**
- * uploadする
+ * upload
  *
  * @param  {string} url URL
  * @param  {string} type type
