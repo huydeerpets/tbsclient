@@ -319,7 +319,7 @@ export default class Header extends Component {
               className={tip}
               onClick={() => this.props.openHelp()}
             >
-              <Glyphicon glyph="info-sign" />&nbsp;ヒント
+              <Glyphicon glyph="info-sign" />&nbsp;Hint
             </Button>
             <div
               className={preview}
