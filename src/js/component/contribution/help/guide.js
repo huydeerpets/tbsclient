@@ -47,28 +47,28 @@ export default ({ open, onHide }: Props) =>
             <td>Enlarge the icon</td>
             <td>shift&nbsp;+&nbsp;↑</td>
           </tr>
-          <tr>
-            <td>アイコンを拡大非表示</td>
-            <td>shift&nbsp;+&nbsp;↓</td>
+         <tr>
+            <td> Hide the icon </td>
+            <td> shift & nbsp; + & nbsp; ↓ </td>
           </tr>
           <tr>
-            <td>テキスト書き込み</td>
-            <td>shift&nbsp;+&nbsp;command</td>
+            <td> Write text </td>
+            <td> shift & nbsp; + & nbsp; command </td>
           </tr>
           <tr>
-            <td>投稿する or 下書き保存</td>
-            <td>shift&nbsp;+&nbsp;ctrl</td>
+            <td> Post or save drafts </td>
+            <td> shift & nbsp; + & nbsp; ctrl </td>
           </tr>
           <tr>
-            <td>フォーカスをテキストに移動</td>
-            <td>shift&nbsp;+&nbsp;enter</td>
+            <td> Move focus to text </td>
+            <td> shift & nbsp; + & nbsp; enter </td>
           </tr>
           <tr>
-            <td>画像をupload</td>
-            <td>shift&nbsp;+&nbsp;i</td>
+            <td> upload image </td>
+            <td> shift & nbsp; + & nbsp; i </td>
           </tr>
           <tr>
-            <td>アイコンを拡大表示</td>
+            <td> Enlarge the icon </td>
             <td>shift&nbsp;+&nbsp;↑</td>
           </tr>
           <tr>

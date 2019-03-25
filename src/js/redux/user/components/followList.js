@@ -41,7 +41,7 @@ export default class FollowList extends Component {
     })
   }
   /**
-   * ページングする
+   * Paging
    *
    * @param {number} page page
    * @param {number} order Order

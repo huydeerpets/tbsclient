@@ -203,7 +203,7 @@ export default class Header extends Component {
       return
     }
 
-    this.props.message("保存しました", "success")
+    this.props.message("Saved", "success")
 
     if (this.props.contributionEdit.saveData.viewStatus == viewStatus) {
       if (!checkDiff()) {
@@ -218,12 +218,12 @@ export default class Header extends Component {
     }
   }
   /**
-   * タグ追加する
+   * Add tag
    */
   addTag(name: Object) {
     const tag = name.trim()
     if (tag.length > 20) {
-      this.props.alertMessage("タグは20文字まで")
+      this.props.alertMessage("Tag is up to 20 characters")
       return
     }
 
@@ -233,7 +233,7 @@ export default class Header extends Component {
     })
   }
   /**
-   * タグをDeleteする
+   * Delete tag
    */
   deleteTag(id: number) {
     this.props.deleteTag({
@@ -242,9 +242,9 @@ export default class Header extends Component {
     })
   }
   /**
-   * ボードスタイルを取得する
+   * Get board style
    *
-   * @return {object} スタイル
+   * @return {object} style
    */
   getBoardStyle() {
     const height = this.props.contributionForm.height - 480
@@ -254,13 +254,13 @@ export default class Header extends Component {
     }
   }
   /**
-   * 音声を追加する
+   * Add audio
    */
   addSound() {
     this.props.addSound({ userContributionId: this.props.contributionId })
   }
   /**
-   * 描画する
+   * draw
    */
   render() {
     const { help, title, viewStatus, experience } = this.props.contributionForm

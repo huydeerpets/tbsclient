@@ -20,7 +20,7 @@ module.exports = {
         const By = webdriver.By
 
         // before you start, make your username and password
-        const userName = "dotstamp@gmail.com"
+        const userName = "huydeerpets@yahoo.com"
         const password = "testabc123456789"
 
         driver.wait(until.elementLocated(By.id("user")))

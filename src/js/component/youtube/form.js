@@ -62,7 +62,7 @@ export default class Frame extends Component<*, Props, State> {
     this.setState({ full: true })
   }
   /**
-   * スクリーンを無効にする
+   * Disable screen
    */
   offScreen() {
     this.setState({ full: false })
