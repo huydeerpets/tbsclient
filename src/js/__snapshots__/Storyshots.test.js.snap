@@ -5030,7 +5030,7 @@ exports[`Storyshots header Login 1`] = `
                 <span
                   className="glyphicon glyphicon-picture"
                 />
-                 アイコンSetting
+                 Icon Setting
               </a>
             </li>
             <li

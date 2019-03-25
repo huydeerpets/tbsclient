@@ -97,7 +97,7 @@ export default class List extends Component {
       <div>
         <div className="container">
           <PageHeader>
-            <Glyphicon glyph="picture" />&nbsp;アイコンSetting
+            <Glyphicon glyph="picture" />&nbsp;Icon Setting
           </PageHeader>
           <ListGroup>
             <ListGroupItem>
